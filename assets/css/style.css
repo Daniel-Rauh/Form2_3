@@ -16,9 +16,10 @@ label{
     width: 30%;
     margin: 3px;
 }
-/* .languages{
-    padding-bottom: 20px;
-} */
+.languages{
+    position: relative;
+    top: -25px;
+}
 .gender-label{
     display: inline;
 }
